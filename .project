@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>maven-github-demo</name>
+=======
+	<name>maven-project-practice</name>
+>>>>>>> 9566700050ac3b8a7d1f6fb245a48f1ecbaa3340
 	<comment></comment>
 	<projects>
 	</projects>
